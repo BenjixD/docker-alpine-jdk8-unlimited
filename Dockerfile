@@ -1,5 +1,5 @@
 # Alpine Linux JDK8, JCE Policy Unlimited Strength 8
-FROM anapsix/alpine-java:8u201b09_jdk
+FROM anapsix/alpine-java:8u201b09_jdk_nashorn
 
 MAINTAINER Benjamin Zhao <yl4zhao@edu.uwaterloo.ca>
 
